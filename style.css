@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="Stylesheet" href="adstyle.css">
+    <title>Admin's Page</title>
+</head>
+<body>
+     <header>
+        <nav>
+             <img src="logos.jpeg" height="40px" style="justify-content: left" height="100px"/>
+               <a href="Menu"><b>Menu</b></a>
+                <a href="Staff "><b>Staff</b></a>
+                 <a href="Sales "><b>Sales</b></a>
+                 <a href="Setting "><b>Setting</b></a>
+                 <button 
+                 onclick="window.location.href='hts.html'">
+               Back to customer Page 
+            </button>
+        </nav>
+     </header>
+     <section id="hero">
+        <div class="hero-content">
+     
+        </div>
+     </section>
+</body>
+</html>
